@@ -20,7 +20,7 @@
   text-transform: uppercase;
 }
 
-.header-nav-list {
+.header-nav-list-item {
   color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
@@ -70,14 +70,6 @@ body {
   font-size: 16px;
 }
 
-.list {
-  list-style: none;
-}
-
-.link {
-  text-decoration: none;
-}
-
 /* hero */
 
 .hero {
@@ -104,3 +96,44 @@ body {
   background-color: #404bbf;
   cursor: pointer;
 }
+
+/* section 1 */
+.company-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.company-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/* section 2 */
+.portfolio {
+  background-color: #f4f4fd;
+}
+.porfolio-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.porfolio-title-item {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio-list {
+  background-color: #ffffff;
+}
+.portfolio-list-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/* section 3 */
