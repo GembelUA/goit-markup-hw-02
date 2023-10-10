@@ -3,7 +3,7 @@
 .header-nav-logo-blue {
   color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -13,7 +13,7 @@
 .header-nav-logo-black {
   color: #2e2f42;
   font-family: 'Raleway', sans-serif;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -25,11 +25,12 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .header-nav-list-item:hover,
 .header-nav-list-item:focus {
-  color: tomato;
+  color: #404bbf;
 }
 
 .header-contacts {
@@ -53,12 +54,12 @@
 
 .header-contacts-item:hover,
 .header-contacts-item:focus {
-  color: tomato;
+  color: #404bbf;
 }
 
 .header-contacts-link:hover,
 .header-contacts-link:focus {
-  color: tomato;
+  color: #404bbf;
 }
 
 body {
