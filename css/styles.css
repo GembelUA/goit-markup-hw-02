@@ -70,7 +70,7 @@ body {
   font-size: 16px;
 }
 
-/* hero */
+/* section 1 hero */
 
 .hero {
   background-color: #2e2f42;
@@ -97,7 +97,8 @@ body {
   cursor: pointer;
 }
 
-/* section 1 */
+/* section 2 */
+
 .company-title {
   font-weight: 500;
   font-size: 20px;
@@ -109,7 +110,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-/* section 2 */
+/* section 3 */
 
 .team {
   background-color: #f4f4fd;
@@ -117,19 +118,19 @@ body {
 .team-list {
   background-color: #ffffff;
 }
-
-/* section 3 */
-
-.portfolio {
-  background-color: #f4f4fd;
-}
-.porfolio-title {
+.team-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+}
+
+/* section 3 */
+
+.portfolio {
+  background-color: #f4f4fd;
 }
 
 .porfolio-title-item {
