@@ -117,7 +117,7 @@ body {
 .team {
   background-color: #f4f4fd;
 }
-.team-list {
+.team-list-item {
   background-color: #ffffff;
 }
 .team-title {
@@ -129,7 +129,7 @@ body {
   color: #2e2f42;
 }
 
-/* section 3 */
+/* section 4 */
 
 .portfolio {
   background-color: #f4f4fd;
