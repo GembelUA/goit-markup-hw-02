@@ -15,6 +15,14 @@ body {
   text-decoration: none;
 }
 
+.a {
+  text-decoration: none;
+}
+
+.ul {
+  list-style: none;
+}
+
 /* header */
 
 .header-nav-logo-blue {
@@ -25,6 +33,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .header-nav-logo-black {
@@ -35,6 +44,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .header-nav-list-item {
@@ -43,6 +53,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 
 .header-nav-list-item:hover,
@@ -60,6 +71,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
+  text-decoration: none;
 }
 
 .header-contacts-item:hover,
