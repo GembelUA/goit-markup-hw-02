@@ -1,3 +1,8 @@
+ul,
+ol {
+  list-style-type: none;
+}
+
 /* body */
 
 body {
@@ -5,22 +10,6 @@ body {
   background-color: #ffffff;
   color: #434455;
   font-size: 16px;
-}
-
-.list {
-  list-style: none;
-}
-
-.link {
-  text-decoration: none;
-}
-
-.a {
-  text-decoration: none;
-}
-
-.ul {
-  list-style: none;
 }
 
 /* header */
